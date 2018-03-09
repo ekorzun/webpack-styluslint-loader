@@ -1,0 +1,8 @@
+node_modules
+*.log
+.nyc_output
+coverage
+.env
+.vscode
+dist
+test/dist
