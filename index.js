@@ -63,7 +63,7 @@ module.exports = function (source) {
     }
 
     if (!lint.config) {
-      lint.config = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../.stylintrc')))
+      lint.config = JSON.parse(fs.readFileSync(path.resolve(__dirname, '.stylintrc')))
     }
   }
 
