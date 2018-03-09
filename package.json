@@ -1,6 +1,6 @@
 {
   "name": "webpack-stylint-loader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Stylus linter for webpack",
   "main": "index.js",
   "author": "Eugene Korzun <e.korzun@gmail.com>",
