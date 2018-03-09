@@ -1,8 +1,11 @@
 {
   "name": "webpack-stylint-loader",
   "version": "1.0.1",
+  "description": "Stylus linter for webpack",
   "main": "lib/index.js",
   "author": "Eugene Korzun <e.korzun@gmail.com>",
+  "repository": "https://github.com/ekorzun/webpack-stylint-loader.git",
+  "private": false,
   "license": "WTFPL",
   "scripts": {
     "test": "NODE_ENV=development webpack --config test/webpack.config.js"
