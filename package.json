@@ -1,6 +1,6 @@
 {
   "name": "styluslint-loader",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Stylus lint loader for webpack",
   "main": "index.js",
   "author": "Eugene Korzun <e.korzun@gmail.com>",
